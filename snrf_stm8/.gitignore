@@ -9,10 +9,7 @@
 **/settings/*.wspos 
 
 # IAR Debug Exe 
-**/Exe/*.sim 
+**/Exe/ 
 
 # IAR Debug Obj 
-**/Obj/*.pbd 
-**/Obj/*.pbd.* 
-**/Obj/*.pbi 
-**/Obj/*.pbi.* 
+**/Obj/
