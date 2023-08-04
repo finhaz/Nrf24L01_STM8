@@ -1,15 +1,19 @@
 # IAR Settings 
-**/settings/*.crun 
-**/settings/*.dbgdt 
-**/settings/*.cspy 
-**/settings/*.cspy.* 
-**/settings/*.xcl 
-**/settings/*.dni 
-**/settings/*.wsdt 
-**/settings/*.wspos 
+# **/settings/*.crun 
+# **/settings/*.dbgdt 
+# **/settings/*.cspy 
+# **/settings/*.cspy.* 
+# **/settings/*.xcl 
+# **/settings/*.dni 
+# **/settings/*.wsdt 
+# **/settings/*.wspos 
+**/settings/
 
 # IAR Debug Exe 
 **/Exe/ 
 
 # IAR Debug Obj 
 **/Obj/
+
+# IAR the dependency file (*.dep)
+**/*.dep
